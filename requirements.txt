@@ -1,0 +1,15 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+yfinance
+xgboost
+lightgbm
+catboost
+statsmodels
+ta
+joblib
+tqdm
+requests
+scipy
