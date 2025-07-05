@@ -71,4 +71,4 @@ joblib.dump(model_pipeline.named_steps["regressor"], MODEL_PATH)
 joblib.dump(model_pipeline.named_steps["preprocessor"], PIPELINE_PATH)
 
 print("✅ Model and pipeline saved successfully.")
-print("📦 Model trained on Profit/Loss using input features excluding 'Target Price'.")
+print("📦 Model trained on Profit/Loss using input features excluding 'Target Price' .")
