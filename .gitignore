@@ -19,13 +19,7 @@ env/
 *.log
 
 # Data files
-*.csv
-*.xlsx
-*.xls
-*.zip
-*.h5
-*.pkl
-*.joblib
+
 
 # Models
 *.sav
