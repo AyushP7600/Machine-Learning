@@ -13,3 +13,8 @@ joblib
 tqdm
 requests
 scipy
+
+
+fastapi
+uvicorn
+pydantic
